@@ -10,5 +10,5 @@ I have professional experience building web applications with Ruby on Rails and 
 currently working with React Native. I actually built a fun app with React Native
 available at https://www.joyley.co.
 
-I am for all the experienes and opportunities I was able to receive and aim to not let them go to waste.
+If I'm not working or writing code I like to read, practice the piano, or exercise.
 
