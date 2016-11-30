@@ -16,10 +16,10 @@
 title: Joseph An
 email: an.joseph892@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Hello if you want to learn more about me, then you are in the right place.
-  Enjoy your stay and feel free to reach out to me on any issues!
+  Please contact me if you have any questions or inquiries about myself or my blog posts.
+  I love to hear feedback!
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://example.com" # the base hostname & protocol for your site
+url: "http://josaph.com" # the base hostname & protocol for your site
 twitter_username: an_josaph
 github_username:  josaphan
 
